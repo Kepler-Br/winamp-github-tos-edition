@@ -1,4 +1,18 @@
 # Winamp
+---
+
+## GitHub Terms Of Services
+### 3. Ownership of Content, Right to Post, and License Grants
+Because you retain ownership of and responsibility for Your Content, we need you to grant us — and other GitHub Users — certain legal permissions, listed in Sections D.4 — D.7. These license grants apply to Your Content. If you upload Content that already comes with a license granting GitHub the permissions we need to run our Service, no additional license is required. You understand that you will not receive any payment for any of the rights granted in Sections D.4 — D.7. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.
+
+### 5. License Grant to Other Users
+By setting your repositories to be viewed publicly, you agree to allow others to view and "<ins>**fork**</ins>" your repositories (this means that others may make their own copies of Content from your repositories in repositories they control).
+If you set your pages and repositories to be viewed publicly, you grant each User of GitHub a nonexclusive, worldwide license to use, display, and perform Your Content through the GitHub Service and to reproduce Your Content solely on GitHub as permitted through GitHub's functionality (for example, through <ins>**forking**</ins>).
+
+### 2. Upon Cancellation
+We will not delete Content that you have contributed to other Users' repositories or that other Users have <ins>**forked**</ins>.
+
+---
 
 ## About
 
